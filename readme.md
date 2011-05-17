@@ -30,6 +30,7 @@ GitHub -(webhook) ->
 
 * Learn how to package, install and daemonize Erlang and Python
   programs using native techniques
+* Limit identifiers to only those generated
 
 ## Caveat emptor
 
